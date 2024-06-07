@@ -133,6 +133,7 @@ defaults rename ${domain} ${old_key} ${new_key}
 
 - [Flash clock time separators](./menubar/flashdateseparators.md)
 - [Set menubar digital clock format](./menubar/dateformat.md)
+- [Show battery percentage](./menubar/batterypercentage.md)
 
 ### Mouse
 
